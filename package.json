@@ -15,6 +15,7 @@
   "author": "Dario Vogogna <stein.dario@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "advanced-calculator": "^1.1.1",
     "dotenv": "^16.3.1",
     "langchain": "^0.0.213",
     "openai": "^4.24.1",
